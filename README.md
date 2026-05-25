@@ -2,6 +2,11 @@
 
 A Python-based microservices project for managing books, borrowing, and user authentication.
 
+## System Architecture
+<p align="center">
+  <img src="docs/images/architecture.png" width="700">
+</p>
+
 ## Services
 
 - `bookservice`
