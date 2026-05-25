@@ -1,5 +1,4 @@
-# Library Management Service
-
+# Library Management Service (Version I)
 A Python-based microservices project for managing books, borrowing, and user authentication.
 
 ## System Architecture
